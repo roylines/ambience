@@ -1,0 +1,19 @@
+{
+  "name": "ambience",
+  "version": "0.0.0",
+  "description": "ambient monitoring",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/roylines/ambience.git"
+  },
+  "author": "Roy Lines",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roylines/ambience/issues"
+  },
+  "homepage": "https://github.com/roylines/ambience"
+}
